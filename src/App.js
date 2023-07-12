@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Branch Main with deleted files
+          Branch Main
         </a>
       </header>
     </div>
